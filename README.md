@@ -20,7 +20,7 @@ Medical abstracts are dense and time-consuming to skim. SkimLit automates the pr
 ## Results
 The tribrid model outperformed all others, balancing precision and recall effectively. Below is a comparison of all models based on validation set performance:
 
-![Model Comparison](images/model_comparison.png)
+![Model Comparison](./images/Model_comparison.png)
 
 | Model                          | Accuracy | Precision | Recall | F1     |
 |--------------------------------|----------|-----------|--------|--------|
